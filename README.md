@@ -1,6 +1,6 @@
 <h1> Land cover classification </h1>
  <br>
- <p>Python notebooks made to classify land cover crops of satellite images from <a href="https://github.com/phelber/EuroSAT" title="Title">EuroSat dataset</a> in Python 3. </p> 
+ <p>Python notebooks to classify land cover crops of satellite images from <a href="https://github.com/phelber/EuroSAT" title="Title">EuroSat dataset</a> in Python 3. </p> 
 
  <img src="https://github.com/sainosmichelle/Land-Cover-Classification/blob/master/images/eurosat.png"
   width="700"
